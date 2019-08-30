@@ -1,0 +1,4 @@
+2019-04-23 11:36:37.028276:[0;31mError: __init__() got an unexpected keyword argument 'type' : ./start.py : 19[0m
+2019-04-23 11:36:57.756759:[0;31mError: __init__() got an unexpected keyword argument 'type' : ./start.py : 19[0m
+2019-04-23 11:38:14.282697:[0;31mError: __init__() got an unexpected keyword argument 'nargs' : ./start.py : 16[0m
+2019-04-23 12:04:59.647089:[0;31mError: mysql info is None[0m
